@@ -1,4 +1,4 @@
-# BTD6-Dark-Castle-Impoppable-Script
+# BTD6-Dark-Castle-R100-Script
 Automatically starts and repeats chimps mode on dark castle in BTD 6
 
 
@@ -23,6 +23,4 @@ Start the bot in the main menu or in the game and press ctrl + alt + shift + j t
 Do not have a saved game in dark castle as that will break the bot
 
 
-
-
-I am not sure how but I have managed to break the auto restart when a defeat happens. Since I have rarely experienced a defeat this hardly affects me but if you send me a solution, I will credit you in the next update and add the solution. Chances are, its easy but im too lazy currently. 
+Will auto restart upon victory or defeat
