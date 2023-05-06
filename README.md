@@ -1,5 +1,5 @@
 # BTD6-Dark-Castle-Impoppable-Script
-Automatically starts and repeats impoppable on dark castle in BTD 6
+Automatically starts and repeats chimps mode on dark castle in BTD 6
 
 
 
